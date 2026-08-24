@@ -96,5 +96,20 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 -->
 
+<hr>
+<div align="center">
+<h1>CONTRIBUTIONS</h1>
+<img
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
+  width="100%"
+  alt="3D GitHub Contributions"
+/>
+</div>
+<hr>
 
+<hr>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<hr>
+
+
+
