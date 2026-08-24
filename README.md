@@ -50,7 +50,7 @@
 
 # 🔥 GitHub Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MohammedAwadah-Mt&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=MohammedAwadah&theme=tokyonight"/>
 </p>
 
 
@@ -62,9 +62,9 @@
 
 # 📊 GitHub Metrics Dashboard
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedAwadah-Mt&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedAwadah-Mt&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammedAwadah-Mt&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedAwadah&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedAwadah&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammedAwadah&theme=tokyonight"/>
 </p>
 
 
