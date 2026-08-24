@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Student passionate about Software Engineering & Computer Science.
+🎓 Computer Science Student | Full-Stack Software Developer.
 
 🧠 Building Strong Foundations In:
 - C++
