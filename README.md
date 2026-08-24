@@ -2,13 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mohammed+Awadah&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Software%20Engineer&descSize=18&descAlignY=62&animation=fadeIn&color=0:020617,35:0F172A,65:312E81,100:7C3AED" width="100%"/>
 </div>
 
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h1 align="center">👋 Hello, I'm Mohammed Awadah</h1>
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=C%2B%2B;Problem+Solving;OOP;Data+Structure;C%23;.NET;Windows+Form;Database+SQL;ADO.NET;"/>
-</p><hr>
+</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--
 <div align="center">
@@ -38,7 +39,7 @@
 
 <img src="https://img.shields.io/badge/FOLLOWING%20ABU%20HADHOUD%20ROADMAP-05020D?style=for-the-badge&logo=bookstack&logoColor=A78BFA"/>
 
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 # 🛠 Skills & Tools
 
 <p align="center">
@@ -52,7 +53,8 @@
 <img src="https://img.shields.io/badge/SQL%20SERVER-05020D?style=for-the-badge&logo=microsoftsqlserver&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/WINDOWS%20FORMS-05020D?style=for-the-badge&logo=windows&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/ADO.NET-05020D?style=for-the-badge&logo=.net&logoColor=A855F7"/>
-<br><hr>
+<br>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
 
@@ -82,19 +84,8 @@
 <!-- # 📬 Contact Me -->
 
 
-<!--
-<div align="center" >
-<h1> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/133582566/331987097-1ee5934a-27be-4502-a7bf-e6a8c78fe5a3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T170604Z&X-Amz-Expires=300&X-Amz-Signature=0e7b49fc7a322cb077dce50ed25ad73cacf85e0dbdcfe0cedcfa93a370fd805c&X-Amz-SignedHeaders=host&actor_id=100375390&key_id=0&repo_id=802760760" alt="Eyes" width="60" height="60" />CONTRIBUTIONS</h1>
- </div>       
 
-<div align="center">
-<img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-rainbow.svg">
-</div>
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/MohammedAwadah/MohammedAwadah/output/github-contribution-grid-snake-dark.svg)
--->
-
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
 <h1>CONTRIBUTIONS</h1>
 <img
@@ -105,9 +96,8 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<hr>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
