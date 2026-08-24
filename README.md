@@ -12,31 +12,28 @@
 
 
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Student at **Benha Faculty of Computers & Artificial Intelligence**
+🎓 Computer Science Student passionate about Software Engineering & Computer Science.
 
-💻 Passionate about **Software Development**
+🧠 Building Strong Foundations In:
+- C++
+- Object-Oriented Programming
+- Data Structures
+- Algorithms & Problem Solving
+- Software Engineering Principles
 
-📚 Focused on :
-
- 🔹 C++  
- 🔹 Object-Oriented Programming  
- 🔹 Data Structures  
- 🔹 Algorithms & Problem Solving  
-
-📈 Currently expanding into:
-
- 🔹 C#  
- 🔹 .NET Development  
- 🔹 Windows Forms  
- 🔹 SQL Server  
-
-📍 Following **ProgrammingAdvices Roadmap**  
-👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
+🚀 Currently Expanding Into:
+- C#
+- .NET Development
+- Windows Forms
+- SQL Server
+- ADO.NET
+- Git & GitHub
+- Docker
 
 
-
+<hr>
 # 🛠 Skills & Tools
 
 <p align="center">
@@ -79,30 +76,5 @@
 
 # 📬 Contact Me
 
-
-
-```cpp
-// Focused on mastering Software Development
-
-class AhmedYaserMt
-{
-public:
-
-  string university = "Benha University";
-
- string faculty = "Faculty of Computers & Artificial Intelligence (BFCAI)";
-
- string track = "Future Software Developer";
-
- string passion = "Problem Solving & Building Systems";
-
- void sayHi()
- {
-     cout << "Thanks for visiting my profile 🚀";
- }
-};
-```
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
