@@ -5,7 +5,7 @@
 
 <hr>
 <div align="center">
-  
+  <h3>Hello I'M Mohammed Awadah</h3>
 </div>
 <br><br>
 
@@ -13,12 +13,12 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=C%2B%2B;Problem+Solving;OOP;Data+Structure;C%23;.NET;Windows+Form;Database+SQL;ADO.NET;"/>
 </div>
-<br><br>
+<br>
 
 <hr>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,vscode,git,github,docker&theme=dark"/>
-<br><hr>
+<br>
 <img src="https://img.shields.io/badge/SQL%20SERVER-05020D?style=for-the-badge&logo=microsoftsqlserver&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/WINDOWS%20FORMS-05020D?style=for-the-badge&logo=windows&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/ADO.NET-05020D?style=for-the-badge&logo=.net&logoColor=A855F7"/>
