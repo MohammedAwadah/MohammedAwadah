@@ -6,10 +6,6 @@
 <h1 align="center">👋 Hello, I'm Mohammed Awadah</h1>
 
 
-<hr>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=C%2B%2B;Problem+Solving;OOP;Data+Structure;C%23;.NET;Windows+Form;Database+SQL;ADO.NET;"/>
-</div>
 
 <hr>
 <div align="center">
@@ -58,10 +54,8 @@
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=C%2B%2B;Problem+Solving;OOP;Data+Structure;C%23;.NET;Windows+Form;Database+SQL;ADO.NET;"/>
 
-<img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 
 </p>
 
@@ -77,7 +71,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AhmedYaser-Mt&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=MohammedAwadah-Mt&theme=tokyonight"/>
 </p>
 
 
@@ -85,7 +79,7 @@
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedYaser-Mt&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAwadah-Mt&theme=tokyo-night"/>
 </p>
 
 
@@ -94,11 +88,11 @@
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedYaser-Mt&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedAwadah-Mt&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedYaser-Mt&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedAwadah-Mt&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedYaser-Mt&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammedAwadah-Mt&theme=tokyonight"/>
 
 </p>
 
@@ -106,63 +100,12 @@
 
 # ⭐ Featured Projects
 
-### ⭐ Bank System & Currency Exchange
-Complete banking system built using OOP.
-
-https://github.com/AhmedYaser-Mt/Project-13-Bank-System-and-Currency-Exchange_OOP
-
-
-
-### 📦 Dynamic Array Class
-Custom implementation of a dynamic array in C++.
-
-https://github.com/AhmedYaser-Mt/Project-18-Dynamic-Array-Class
-
-
-
-### 🔗 Double Linked List Class
-Full implementation of a double linked list data structure.
-
-https://github.com/AhmedYaser-Mt/Project-15-Double-Linked-List-Class
-
-
-
-### 📚 String Library
-Custom string utilities using OOP.
-
-https://github.com/AhmedYaser-Mt/Project-8-String-Library-OOP-
-
-
-
-### 📅 Date & Period Libraries
-Libraries for managing dates and periods.
-
-https://github.com/AhmedYaser-Mt/Project-9-Date-and-Period-Libraries-OOP-
-
 
 
 
 # 📬 Contact Me
 
-<p align="center">
 
-<a href="https://www.linkedin.com/in/ahmed-yaser-mt">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ahmed.yaser.mt@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://wa.me/201014842264">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
-</a>
-
-<a href="https://t.me/AhmedYaserMt">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
-</a>
-
-</p>
 
 
 
