@@ -80,9 +80,6 @@
 
 <!-- # ⭐ Featured Projects -->
 
-<!-- # 📬 Contact Me -->
-
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
@@ -95,7 +92,12 @@
 </div>
 
 
-
+<!--
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-05020D?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+</a>
+-->
 
 <!-- ==================== CONTACT ==================== --><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:7C3AED,100:A855F7" width="100%"/><br>📬 Connect With Me
 <p>
@@ -104,16 +106,10 @@ Building, learning, and growing as a Software Engineer.
 <img src="https://img.shields.io/badge/GitHub-MohammedAwadah-05020D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-05020D?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mohammed1awadah@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-05020D?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
 </a><br><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:7C3AED,100:A855F7" width="65%"/><br><sub>
-⚡ Software Engineering • Clean Code • Problem Solving • Continuous Learning
-</sub><br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A855F7,50:7C3AED,100:2563EB" width="100%"/></div><!-- ==================== END CONTACT ==================== -->
 
 
@@ -128,9 +124,14 @@ and exploring new opportunities.
   <img src="https://img.shields.io/badge/Let's%20Connect-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a><br><br>
 <p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:7C3AED,100:A855F7" width="65%"/><br><sub>
+</sub><br><br>
 💻 Software Engineering &nbsp; • &nbsp;
 🤖 Artificial Intelligence &nbsp; • &nbsp;
 🚀 Building & Learning
+ <div align="center"> 
+ ⚡Continuous Learning
+  </div>
 </p><br><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B5FFF,50:00D9FF,100:FF4ECD&height=3&section=footer" width="100%"></div>
 
 
