@@ -32,6 +32,7 @@
 - Git & GitHub
 - Docker
 
+<img src="https://img.shields.io/badge/FOLLOWING%20ABU%20HADHOUD%20ROADMAP-05020D?style=for-the-badge&logo=bookstack&logoColor=A78BFA"/>
 
 <hr>
 # 🛠 Skills & Tools
@@ -43,7 +44,6 @@
 <img src="https://img.shields.io/badge/SQL%20SERVER-05020D?style=for-the-badge&logo=microsoftsqlserver&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/WINDOWS%20FORMS-05020D?style=for-the-badge&logo=windows&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/ADO.NET-05020D?style=for-the-badge&logo=.net&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/FOLLOWING%20ABU%20HADHOUD%20ROADMAP-05020D?style=for-the-badge&logo=bookstack&logoColor=A78BFA"/>
 <br><hr>
 /p>
 
