@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/badge/WINDOWS%20FORMS-05020D?style=for-the-badge&logo=windows&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/ADO.NET-05020D?style=for-the-badge&logo=.net&logoColor=A855F7"/>
 <br><br>
-<img src="https://img.shields.io/badge/ABU%20HADHOUD%20ROADMAP-05020D?style=for-the-badge&logo=bookstack&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/COURSE%2018%20%2F%2032-05020D?style=for-the-badge&logo=target&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/FOLLOWING%20ABU%20HADHOUD%20ROADMAP-05020D?style=for-the-badge&logo=bookstack&logoColor=A78BFA"/>
 <br><br>
 </div>
 <br><br>
