@@ -72,9 +72,9 @@
 
 
 
-# ⭐ Featured Projects
+<!-- # ⭐ Featured Projects -->
 
-# 📬 Contact Me
+<!-- # 📬 Contact Me -->
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
