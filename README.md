@@ -57,19 +57,19 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 # 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MohammedAwadah&theme=tokyonight&hide_border=true" />
 </p>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 # 📈 Activity Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAwadah&theme=tokyo-night"/>
 </p>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 # 📊 GitHub Metrics Dashboard
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedAwadah&theme=tokyonight"/>
