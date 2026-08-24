@@ -22,6 +22,6 @@ jobs:
           output-path: ./assets/gitbanner
           format: both
           theme: dark
-          include-private: true
+          include-private: false
           commit: true
           commit-message: "chore: refresh GitBanner stats"
