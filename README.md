@@ -79,17 +79,18 @@
 
 
 
-<summary><b>⚙️ GitHub Analytics</b></summary>
-<br>
-  <p align="center">
-    <img style="width: 88%;" src="https://raw.githubusercontent.com/MohammedAwadah/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-  </p>
-  <p align="center">
-    <img style="width: 38%;" src="https://raw.githubusercontent.com/MohammedAwadah/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
-  </p>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=sanjay-kv&theme=github-dark&hide_border=true" alt="Streak Stats" />
-  </p>
+<div align="center" >
+<h1> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/133582566/331987097-1ee5934a-27be-4502-a7bf-e6a8c78fe5a3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T170604Z&X-Amz-Expires=300&X-Amz-Signature=0e7b49fc7a322cb077dce50ed25ad73cacf85e0dbdcfe0cedcfa93a370fd805c&X-Amz-SignedHeaders=host&actor_id=100375390&key_id=0&repo_id=802760760" alt="Eyes" width="60" height="60" />CONTRIBUTIONS</h1>
+ </div>       
+
+<div align="center">
+<img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-rainbow.svg">
+</div>
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/MohammedAwadah/MohammedAwadah/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
