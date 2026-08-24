@@ -4,9 +4,8 @@
 
 <hr>
 <div align="center">
-  <h2><span style="color:#A78BFA;">Hello I'M Mohammed Awadah</span></h2>
+  <h2><span style="color:#A78BFA">Hello, I'M Mohammed Awadah</span></h2>
 </div>
-<br>
 
 <hr>
 <div align="center">
