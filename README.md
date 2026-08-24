@@ -22,11 +22,7 @@
 <img src="https://img.shields.io/badge/FOLLOWING%20ABU%20HADHOUD%20ROADMAP-05020D?style=for-the-badge&logo=bookstack&logoColor=A78BFA"/>
 <br><hr>
 </div>
-<br><br>
-
-
-
----
+<br>
 
 # 👨‍💻 About Me
 
@@ -51,7 +47,7 @@
 📍 Following **ProgrammingAdvices Roadmap**  
 👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
 
----
+
 
 # 🛠 Skills & Tools
 
@@ -69,14 +65,14 @@
 
 </p>
 
----
+
 
 
 <p align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420"/>
 </p>
 
----
+
 
 # 🔥 GitHub Streak
 
@@ -84,7 +80,7 @@
 <img src="https://streak-stats.demolab.com?user=AhmedYaser-Mt&theme=tokyonight"/>
 </p>
 
----
+
 
 # 📈 Activity Graph
 
@@ -92,7 +88,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedYaser-Mt&theme=tokyo-night"/>
 </p>
 
----
+
 
 # 📊 GitHub Metrics Dashboard
 
@@ -106,7 +102,7 @@
 
 </p>
 
----
+
 
 # ⭐ Featured Projects
 
@@ -115,28 +111,28 @@ Complete banking system built using OOP.
 
 https://github.com/AhmedYaser-Mt/Project-13-Bank-System-and-Currency-Exchange_OOP
 
----
+
 
 ### 📦 Dynamic Array Class
 Custom implementation of a dynamic array in C++.
 
 https://github.com/AhmedYaser-Mt/Project-18-Dynamic-Array-Class
 
----
+
 
 ### 🔗 Double Linked List Class
 Full implementation of a double linked list data structure.
 
 https://github.com/AhmedYaser-Mt/Project-15-Double-Linked-List-Class
 
----
+
 
 ### 📚 String Library
 Custom string utilities using OOP.
 
 https://github.com/AhmedYaser-Mt/Project-8-String-Library-OOP-
 
----
+
 
 ### 📅 Date & Period Libraries
 Libraries for managing dates and periods.
@@ -144,7 +140,7 @@ Libraries for managing dates and periods.
 https://github.com/AhmedYaser-Mt/Project-9-Date-and-Period-Libraries-OOP-
 
 
----
+
 
 # 📬 Contact Me
 
@@ -168,7 +164,7 @@ https://github.com/AhmedYaser-Mt/Project-9-Date-and-Period-Libraries-OOP-
 
 </p>
 
----
+
 
 ```cpp
 // Focused on mastering Software Development
