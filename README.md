@@ -10,7 +10,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=BURHAN&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20IN%20PROGRESS&descSize=18&descAlignY=62&animation=fadeIn&color=0:020617,35:0F172A,65:312E81,100:7C3AED" width="100%"/>
 
 <br>
 
