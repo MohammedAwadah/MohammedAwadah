@@ -5,20 +5,11 @@
 <hr>
 <h1 align="center">👋 Hello, I'm Mohammed Awadah</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=C%2B%2B;Problem+Solving;OOP;Data+Structure;C%23;.NET;Windows+Form;Database+SQL;ADO.NET;"/>
+/p>
 
 
-<hr>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,vscode,git,github,docker&theme=dark"/>
-<br>
-<img src="https://img.shields.io/badge/SQL%20SERVER-05020D?style=for-the-badge&logo=microsoftsqlserver&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/WINDOWS%20FORMS-05020D?style=for-the-badge&logo=windows&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/ADO.NET-05020D?style=for-the-badge&logo=.net&logoColor=A855F7"/>
-<br><hr>
-<img src="https://img.shields.io/badge/FOLLOWING%20ABU%20HADHOUD%20ROADMAP-05020D?style=for-the-badge&logo=bookstack&logoColor=A78BFA"/>
-<br><hr>
-</div>
-<br>
 
 # 👨‍💻 About Me
 
@@ -49,15 +40,18 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio"/>
 
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=C%2B%2B;Problem+Solving;OOP;Data+Structure;C%23;.NET;Windows+Form;Database+SQL;ADO.NET;"/>
-
-
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,vscode,git,github,docker&theme=dark"/>
+<br>
+<img src="https://img.shields.io/badge/SQL%20SERVER-05020D?style=for-the-badge&logo=microsoftsqlserver&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/WINDOWS%20FORMS-05020D?style=for-the-badge&logo=windows&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/ADO.NET-05020D?style=for-the-badge&logo=.net&logoColor=A855F7"/>
+<br><hr>
+<img src="https://img.shields.io/badge/FOLLOWING%20ABU%20HADHOUD%20ROADMAP-05020D?style=for-the-badge&logo=bookstack&logoColor=A78BFA"/>
+<br><hr>
+/p>
 
 
 
