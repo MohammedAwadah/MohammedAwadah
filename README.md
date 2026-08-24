@@ -10,7 +10,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=C%2B%2B;Problem+Solving;OOP;Data+Structure;C%23;.NET;Windows+Form;Database+SQL;ADO.NET;"/>
 </p><hr>
 
-
+<div align="center">
+  <img src="./gitbanner.svg" width="100%" alt="GitHub Activity Dashboard">
+</div>
 
 ## 👨‍💻 About Me
 
