@@ -41,7 +41,7 @@
 </p>
 <p align="center">
   <a href="https://mdazfar2.netlify.app">
-    <img src="https://skillicons.dev/icons?i=aws,linux" />
+    <img src="https://skillicons.dev/icons?i=linux" />
   </a>
 <p align="center"><img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,vscode,git,github,docker&theme=dark"/>
 <br>
