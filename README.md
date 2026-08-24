@@ -92,8 +92,6 @@
 </div>
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/MohammedAwadah/MohammedAwadah/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 -->
 
 <hr>
@@ -105,7 +103,7 @@
   alt="3D GitHub Contributions"
 />
 </div>
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <hr>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
