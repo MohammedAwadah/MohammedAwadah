@@ -95,6 +95,23 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B5FFF,50:00D9FF,100:FF4ECD&height=3&section=header" width="100%"><h2>📬 Contact Me</h2><p>
+I'm always open to connecting with developers, discussing software engineering,
+and exploring new opportunities.
+</p><br><a href="https://github.com/MohammedAwadah">
+  <img src="https://img.shields.io/badge/GitHub-MohammedAwadah-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a><br><br>
+<a href="https://github.com/MohammedAwadah">
+  <img src="https://img.shields.io/badge/Let's%20Connect-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a><br><br>
+<p>
+💻 Software Engineering &nbsp; • &nbsp;
+🤖 Artificial Intelligence &nbsp; • &nbsp;
+🚀 Building & Learning
+</p><br><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B5FFF,50:00D9FF,100:FF4ECD&height=3&section=footer" width="100%"></div>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
