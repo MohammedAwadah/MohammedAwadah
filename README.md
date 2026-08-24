@@ -93,7 +93,29 @@
   alt="3D GitHub Contributions"
 />
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+
+<!-- ==================== CONTACT ==================== --><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:7C3AED,100:A855F7" width="100%"/><br>📬 Connect With Me
+<p>
+Building, learning, and growing as a Software Engineer.
+</p><br><a href="https://github.com/MohammedAwadah">
+<img src="https://img.shields.io/badge/GitHub-MohammedAwadah-05020D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-05020D?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-05020D?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
+</a><br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:7C3AED,100:A855F7" width="65%"/><br><sub>
+⚡ Software Engineering • Clean Code • Problem Solving • Continuous Learning
+</sub><br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A855F7,50:7C3AED,100:2563EB" width="100%"/></div><!-- ==================== END CONTACT ==================== -->
+
 
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B5FFF,50:00D9FF,100:FF4ECD&height=3&section=header" width="100%"><h2>📬 Contact Me</h2><p>
