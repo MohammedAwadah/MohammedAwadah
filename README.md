@@ -48,19 +48,16 @@
 </p>
 
 
-
 # 🔥 GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=MohammedAwadah-Mt&theme=tokyonight"/>
 </p>
 
 
-
 # 📈 Activity Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAwadah-Mt&theme=tokyo-night"/>
 </p>
-
 
 
 # 📊 GitHub Metrics Dashboard
