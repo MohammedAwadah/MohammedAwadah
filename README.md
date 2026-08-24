@@ -88,3 +88,27 @@ gantt
     section Stage 3: Enterprise & Data (Courses 14-18)
     C# Fundamentals & OOP in C# (C14, C16)        :done, c6, 2026-07-01, 2026-07-25
     SQL Database Design & ADO.NET (C15, C17, C18) :done, c7, 2026-07-25, 2026-08-24
+
+    <details>
+<summary><b>🔍 Detailed Breakdown of Extracted Skills Across Courses 1 to 18</b></summary>
+
+
+</details>
+
+<div align="center">
+
+
+</div>
+​<!-- Dynamic GitHub Metrics -->
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYaser-Mt&theme=dark&background=0D1117&border=8A2BE2&stroke=00BFFF&ring=8A2BE2&fire=00BFFF&currStreakNum=00BFFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=synthwave&bg_color=0d1117&title_color=00BFFF&text_color=8A2BE2&hide_border=true" width="48%" />
+</div>
+​<div align="center">
+​<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,50:00BFFF,100:4B0082&height=120&section=footer" width="100%" />
+​<p><i>"Write code that communicates intent to humans and efficiency to machines."</i></p>
+​</div>
+
+
+
