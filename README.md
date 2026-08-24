@@ -74,4 +74,18 @@
 <!-- # 📬 Contact Me -->
 
 
+
+<summary><b>⚙️ GitHub Analytics</b></summary>
+<br>
+  <p align="center">
+    <img style="width: 88%;" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  </p>
+  <p align="center">
+    <img style="width: 38%;" src="https://raw.githubusercontent.com/MohammedAwadah/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=sanjay-kv&theme=github-dark&hide_border=true" alt="Streak Stats" />
+  </p>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
