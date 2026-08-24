@@ -11,7 +11,7 @@
 </p><hr>
 
 <div align="center">
-  <img src="./gitbanner.svg" width="100%" alt="GitHub Activity Dashboard">
+  <img src="./assets/gitbanner.svg" width="100%" alt="GitHub Activity Dashboard">
 </div>
 
 ## 👨‍💻 About Me
