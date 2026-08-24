@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Software+Engineering+Journey;Abu+Hadhoud+Roadmap+%E2%80%94+%2F;Building+Strong+Engineering+Foundations;Understand+What+Happens+Under+the+Abstraction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Software+Engineering+Journey;%E2%80%94+%2F;Building+Strong+Engineering+Foundations;Understand+What+Happens+Under+the+Abstraction"/>
 
 <br><br>
 
@@ -32,7 +32,7 @@
 
 Currently building my engineering foundation through
 
-### Abu Hadhoud Roadmap — Course 18 / 32
+### Following Eng/Abu Hadhoud Roadmap 
 
 </div>
 
