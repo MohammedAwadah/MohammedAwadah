@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/WINDOWS%20FORMS-05020D?style=for-the-badge&logo=windows&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/ADO.NET-05020D?style=for-the-badge&logo=.net&logoColor=A855F7"/>
 <br><hr>
-/p>
+</p>
 
 
 
