@@ -3,9 +3,8 @@
 </div>
 
 <hr>
-<div align="center">
-  <img src="https://img.shields.io/badge/Hello, I'M Mohammed Awadah-05020D?style=for-the-badge&logo=.net&logoColor=60A5FA&labelColor=05020D">
-</div>
+<h1 align="center">👋 Hello, I'm Mohammed Awadah</h1>
+
 
 <hr>
 <div align="center">
