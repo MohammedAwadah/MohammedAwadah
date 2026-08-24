@@ -99,29 +99,16 @@
 </a>
 -->
 
-<!-- ==================== CONTACT ==================== --><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:7C3AED,100:A855F7" width="100%"/><br>📬 Connect With Me
-<p>
-Building, learning, and growing as a Software Engineer.
+<!-- ==================== CONTACT ==================== -->
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B5FFF,50:00D9FF,100:FF4ECD&height=3&section=header" width="100%"><h2>📬 Contact Me</h2><p>
+I'm always open to connecting with developers, discussing software engineering,
+and exploring new opportunities.
 </p><br><a href="https://github.com/MohammedAwadah">
 <img src="https://img.shields.io/badge/GitHub-MohammedAwadah-05020D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 &nbsp;
 <a href="mailto:mohammed1awadah@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-05020D?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
-</a><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A855F7,50:7C3AED,100:2563EB" width="100%"/></div><!-- ==================== END CONTACT ==================== -->
-
-
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B5FFF,50:00D9FF,100:FF4ECD&height=3&section=header" width="100%"><h2>📬 Contact Me</h2><p>
-I'm always open to connecting with developers, discussing software engineering,
-and exploring new opportunities.
-</p><br><a href="https://github.com/MohammedAwadah">
-  <img src="https://img.shields.io/badge/GitHub-MohammedAwadah-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a><br><br>
-<a href="https://github.com/MohammedAwadah">
-  <img src="https://img.shields.io/badge/Let's%20Connect-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a><br><br>
 <p>
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:7C3AED,100:A855F7" width="65%"/><br><sub>
