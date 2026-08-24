@@ -1,13 +1,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mohammed+Awadah&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Software%20Engineer&descSize=18&descAlignY=62&animation=fadeIn&color=0:020617,35:0F172A,65:312E81,100:7C3AED" width="100%"/>
 </div>
-<br><br>
+<br>
 
 <hr>
 <div align="center">
-  <h3>Hello I'M Mohammed Awadah</h3>
+  <h2 color=parper>Hello I'M Mohammed Awadah</h2>
 </div>
-<br><br>
+<br>
 
 <hr>
 <div align="center">
