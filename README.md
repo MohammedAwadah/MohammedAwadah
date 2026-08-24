@@ -82,7 +82,7 @@
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
   <p align="center">
-    <img style="width: 88%;" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+    <img style="width: 88%;" src="https://raw.githubusercontent.com/MohammedAwadah/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
   </p>
   <p align="center">
     <img style="width: 38%;" src="https://raw.githubusercontent.com/MohammedAwadah/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
