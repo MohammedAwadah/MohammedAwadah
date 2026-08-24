@@ -39,6 +39,10 @@
 
 <p align="center">
 </p>
+<p align="center">
+  <a href="https://mdazfar2.netlify.app">
+    <img src="https://skillicons.dev/icons?i=aws,linux,ansible,jenkins,kubernetes,grafana,git" />
+  </a>
 <p align="center"><img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,vscode,git,github,docker&theme=dark"/>
 <br>
 <img src="https://img.shields.io/badge/SQL%20SERVER-05020D?style=for-the-badge&logo=microsoftsqlserver&logoColor=A78BFA"/>
