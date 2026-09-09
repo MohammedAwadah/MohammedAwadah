@@ -7,7 +7,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=C%2B%2B;Problem+Solving;OOP;Data+Structure;C%23;.NET;Windows+Form;Database+SQL;ADO.NET;"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=60&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=1050&lines=C%2B%2B;Problem+Solving;OOP;Data+Structure;C%23;.NET;Windows+Form;Database+SQL;ADO.NET;"/>
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
